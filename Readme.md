@@ -4,7 +4,7 @@
 #### About Me
 
 - A passionate Software Engineer
-- I’m interested in machine learing, data science, and robotics.
+- I’m interested in machine learing, data science, and data engineering.
 - I am always looking forward to meet people and share experiences.
 
 <hr>
