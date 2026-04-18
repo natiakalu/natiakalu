@@ -1,5 +1,5 @@
 
-### Hello I am a senior software Engineer, dabbling with anything related to computers. 
+### Hello I am a software Engineer, dabbling with anything related to computers. 
 
 #### About Me
 
