@@ -7,15 +7,15 @@ I am a **Software Engineer** with over 4 years of experience building software s
 ### 🛠️ Technical Stack
 
 *   **Languages:** Python, JavaScript, TypeScript, SQL
-*   **Frameworks:** Django, Flask, FastAPI, Vue 2, Node.js
 *   **Data & Infra:** BigQuery, Cloud Storage, DBT, Dataflow, Airflow, Terraform, Docker
+*   **Frameworks:** Django, Flask, FastAPI, Vue 2, Node.js
 *   **AI & Agents:** Claude Code, LangChain, LangGraph
 
 ---
 
 ### 📈 Professional Experience
 
-*   **Bilby Ltd:** Software Engineer (Remote - Hong Kong)
+*   **Bilby Ltd:** Software Engineer [Data/Platform] (Remote - Hong Kong)
 *   **Pinely International:** Software Engineer (Remote - Czech Republic)
 *   **Lokafy:** Fullstack Engineer (Remote - Canada)
 
