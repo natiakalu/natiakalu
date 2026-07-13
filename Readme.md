@@ -23,5 +23,5 @@ I am a **Software Engineer** with over 4 years of experience building software s
 
 ### 📬 Connect with Me
 
-*   📍 Based in **Dubai, UAE and Addis Ababa Ethiopia**[cite: 1]
+*   📍 Based in **Dubai, UAE and Addis Ababa Ethiopia**
 *   🔗 [LinkedIn](https://www.linkedin.com/in/natnael-abay-akalu/) | [Email](mailto:se.natnael.abay@gmail.com)
